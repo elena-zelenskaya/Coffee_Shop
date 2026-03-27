@@ -1,6 +1,6 @@
 astroid==2.2.5
 Click==7.0
-ecdsa==0.13.3
+ecdsa==0.19.2
 Flask==2.2.5
 Flask-Cors==6.0.0
 Flask-SQLAlchemy==2.4.0
